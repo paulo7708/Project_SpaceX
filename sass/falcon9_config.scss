@@ -1,0 +1,81 @@
+.containerf01 {
+  background-image: url("../img/falcon9/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+  font-family: 'Lato', sans-serif;
+
+  .textf9 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 300px;
+  }
+}z
+.display {
+  font-family: "Lato", sans-serif;
+}
+
+.containerf02 {
+  background-image: url("../img/falcon9/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+  p {
+    display:flex;
+    text-align: justify;
+    font-size: 24px;
+    width: 50vh;
+  }
+}
+.nunbar {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  color: white;
+}
+
+.carrossel{
+  
+  .textcarrossel{
+    width:500px;
+    text-align: justify;
+  }
+  .table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    width:500px;
+    color: white;
+  }
+}
+
+.containerf03{
+  background-image: url("../img/falcon9/08.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+  .table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    width:500px;
+    color: white;
+  }
+  
+  
+}
+.footer {
+  background-color: black;
+  height: 15vh;
+  font-size: 12px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:$footer;
+}

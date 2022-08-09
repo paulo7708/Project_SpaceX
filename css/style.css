@@ -1,0 +1,252 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap");
+.containerh01 {
+  background-image: url("../img/home/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+
+.containerh02 {
+  background-image: url("../img/home/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+
+.containerh03 {
+  background-image: url("../img/home/02.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+
+.containerh04 {
+  background-image: url("../img/home/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+
+.containerh05 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+  background-color: black;
+}
+.containerh05 a, .containerh05 p {
+  text-decoration: none;
+  color: white;
+  font-size: 13px;
+}
+
+.containerf01 {
+  background-image: url("../img/falcon9/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+  font-family: "Lato", sans-serif;
+}
+.containerf01 .textf9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 300px;
+}
+
+z .display {
+  font-family: "Lato", sans-serif;
+}
+
+.containerf02 {
+  background-image: url("../img/falcon9/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+.containerf02 p {
+  display: flex;
+  text-align: justify;
+  font-size: 24px;
+  width: 50vh;
+}
+
+.nunbar {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  color: white;
+}
+
+.carrossel .textcarrossel {
+  width: 500px;
+  text-align: justify;
+}
+.carrossel .table {
+  caption-side: bottom;
+  border-collapse: collapse;
+  width: 500px;
+  color: white;
+}
+
+.containerf03 {
+  background-image: url("../img/falcon9/08.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+.containerf03 .table {
+  caption-side: bottom;
+  border-collapse: collapse;
+  width: 500px;
+  color: white;
+}
+
+.footer {
+  background-color: black;
+  height: 15vh;
+  font-size: 12px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #555252;
+}
+
+.containerhsf1 {
+  background-image: url("../img/humanflight/01.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+  font-family: "Lato", sans-serif;
+}
+.containerhsf1 .textf9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 300px;
+}
+
+.containertext {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.containerhsf2 {
+  background-image: url("../img/humanflight/02.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+.containerhsf2 .legendas {
+  text-align: end;
+}
+
+.containerhsf3 {
+  background-image: url("../img/humanflight/03.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+
+.containerhsf4 {
+  background-image: url("../img/humanflight/04.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+.containerhsf4 .legendas {
+  text-align: end;
+}
+
+.containerhsf5 {
+  background-image: url("../img/humanflight/05.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: white;
+  height: 100vh;
+}
+
+.footer {
+  background-color: black;
+  height: 15vh;
+  font-size: 12px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  color: white;
+  height: 50vh;
+}
+
+body {
+  background-color: black;
+  overflow-x: hidden;
+}
+
+.containerconfig {
+  height: 100vh;
+}
+
+.navbar {
+  margin-left: 280px;
+}
+
+.text1 {
+  padding-top: 200px;
+  color: white;
+}
+
+.img-obc {
+  width: 25vh;
+}
+
+.font-menu {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.btn1 {
+  padding: 10px;
+  margin-top: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.arrow {
+  max-width: 10%;
+  height: auto;
+}
+
+#overViewPosition {
+  width: 500px;
+  margin-left: 13%;
+  padding-top: 15%;
+}
+
+/*# sourceMappingURL=style.css.map */
